@@ -1,0 +1,16 @@
+
+c
+java:S2095&"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Î¦†¬
+d
+java:S2095'"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(²øóÉ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¦©ƒúüÿÿÿÿ
+e
+java:S2259*"JA "NullPointerException" could be thrown; "inputChannel" is nullable here.(Öòïíıÿÿÿÿ
+f
+java:S2259+"KA "NullPointerException" could be thrown; "outputChannel" is nullable here.(ô–ğğûÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(×±åéıÿÿÿÿ
+\	java:S899"BDo something with the "boolean" value returned by "createNewFile".(îè¬óşÿÿÿÿ
+W	java:S899!"BDo something with the "boolean" value returned by "createNewFile".(ø–Æ
+E
+java:S2093%"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

@@ -1,0 +1,49 @@
+
+G
+java:S1602b",Remove useless curly braces around statement(•Ìäğùÿÿÿÿ
+L
+java:S54110"*Use the primitive boolean expression here.(ïåŠ…ıÿÿÿÿ8ÅÀÈ€ï.
+L
+java:S3740"/Provide the parametrized type for this generic.(ìë¥8úèÒí.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(’é§’8ÅÀÈ€ï.
+U	java:S106s"9Replace this use of System.out or System.err by a logger.(˜§İ8úèÒí.
+S
+java:S1905·"0Remove this unnecessary cast to "ServiceObject".(ÜÇÂµÿÿÿÿÿ8úèÒí.
+Q
+java:S3740E"/Provide the parametrized type for this generic.(ÅÀÌ…úÿÿÿÿ8úèÒí.
+Y
+java:S2259‘"BA "NullPointerException" could be thrown; "null" is nullable here.(•…ş§
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(â¨ˆì8úèÒí.
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(ô··¼şÿÿÿÿ8ÅÀÈ€ï.
+X	java:S125n"<This block of commented-out lines of code should be removed.(˜£˜¡8ÅÀÈ€ï.
+q
+java:S11920"ODefine a constant instead of duplicating this literal "ServiceObject2" 3 times.(ïåŠ…ıÿÿÿÿ8ÅÀÈ€ï.
+S
+java:S1905Ã"0Remove this unnecessary cast to "ServiceObject".(Ú°µşÿÿÿÿ8úèÒí.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Ô°¯Çşÿÿÿÿ8ÅÀÈ€ï.
+L
+java:S3740"/Provide the parametrized type for this generic.( ´ö§8ÅÀÈ€ï.
+^	java:S125í"<This block of commented-out lines of code should be removed.(ºĞ¡§şÿÿÿÿ8úèÒí.
+V	java:S106â"9Replace this use of System.out or System.err by a logger.(İˆ È8úèÒí.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(¯Çóåıÿÿÿÿ8ÅÀÈ€ï.
+Y	java:S125ï"<This block of commented-out lines of code should be removed.(ô§½ø8úèÒí.
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(ÇÃ½¬şÿÿÿÿ8ÅÀÈ€ï.
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(’Ó¿˜üÿÿÿÿ8úèÒí.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ÓÍñä8ÅÀÈ€ï.
+S
+java:S1905©"0Remove this unnecessary cast to "ServiceObject".(Ù§ÎÜúÿÿÿÿ8úèÒí.
+G
+java:S5411"*Use the primitive boolean expression here.(Â—»†8ÅÀÈ€ï.
+Y	java:S125¹"<This block of commented-out lines of code should be removed.(Ş¦…«8úèÒí.
+^	java:S125Å"<This block of commented-out lines of code should be removed.(ˆ©­üÿÿÿÿ8úèÒí.
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8úèÒí.
+L
+java:S3740"/Provide the parametrized type for this generic.(Ò©ş8úèÒí.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(€‡¢ıÿÿÿÿ8úèÒí.
+Y	java:S125ñ"<This block of commented-out lines of code should be removed.(…‹³Ù8úèÒí.
+]	java:S125l"<This block of commented-out lines of code should be removed.(ˆĞÊûûÿÿÿÿ8ÅÀÈ€ï.
+Y	java:S125«"<This block of commented-out lines of code should be removed.(Åğ8úèÒí.
+l
+java:S1192"ODefine a constant instead of duplicating this literal "ServiceObject1" 3 times.(Â—»†8ÅÀÈ€ï.
+Y	java:S125ä"<This block of commented-out lines of code should be removed.(‡¨å¯8úèÒí.

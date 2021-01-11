@@ -1,0 +1,20 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(–ªŒ¢úÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÔçéÿÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¸Å†
+k	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Ä®îûÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+h
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(Çµí‘
+S
+java:S1197"8Move the array designator from the variable to the type.(þÔçéÿÿÿÿÿ
+S
+java:S11978"8Move the array designator from the variable to the type.(‡Ä®îûÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(¼íóÅ

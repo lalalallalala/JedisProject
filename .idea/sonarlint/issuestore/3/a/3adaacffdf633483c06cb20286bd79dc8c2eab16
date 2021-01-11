@@ -1,0 +1,32 @@
+
+[	java:S112I"FDefine and throw a dedicated exception instead of using a generic one.(ë‘¶³
+–
+java:S11920"€Define a constant instead of duplicating this literal "SerializableUtilå·¥å…·ç±»ååºåˆ—åŒ–å‡ºç°IOExceptionå¼‚å¸¸:{}" 3 times.( ùˆE
+S
+java:S1163T"=Refactor this code to not throw exceptions in finally blocks.(ë‘¶³
+”
+java:S11921"~Define a constant instead of duplicating this literal "SerializableUtilå·¥å…·ç±»ååºåˆ—åŒ–å‡ºç°IOExceptionå¼‚å¸¸:" 3 times.(ë‘¶³
+J
+java:S1143T"4Remove this throw statement from this finally block.(ë‘¶³
+[	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(ìÌÈ¥
+[	java:S112F"FDefine and throw a dedicated exception instead of using a generic one.(¸ÇÕŞ
+J
+java:S11431"4Remove this throw statement from this finally block.(ë‘¶³
+E
+java:S2093@"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+[	java:S112T"FDefine and throw a dedicated exception instead of using a generic one.(ë‘¶³
+S
+java:S11631"=Refactor this code to not throw exceptions in finally blocks.(ë‘¶³
+[	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(ë‘¶³
+u
+java:S2139$"XEither log this exception and handle it, or rethrow it with some contextual information.(ï­£Ä8ÉàÉ€ï.
+u
+java:S2139/"XEither log this exception and handle it, or rethrow it with some contextual information.(ï­£Ä8ÉàÉ€ï.
+u
+java:S2139D"XEither log this exception and handle it, or rethrow it with some contextual information.(ıàÑÎ8ÉàÉ€ï.
+u
+java:S2139G"XEither log this exception and handle it, or rethrow it with some contextual information.(ï­£Ä8ÉàÉ€ï.
+u
+java:S2139R"XEither log this exception and handle it, or rethrow it with some contextual information.(ï­£Ä8ÉàÉ€ï.
